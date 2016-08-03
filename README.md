@@ -1,6 +1,6 @@
 # WATS 3020 - Introduction To JavaScript
 
-This is the first Javascript coding assignment for WATS3020: Introduction to Javascript at Seattle University. The goal of this project is to illustrate an understanding of the basic concepts of Javascript, including variable assignment, loops, and conditionals.
+This is the first Javascript coding assignment for WATS3020: Introduction to Javascript at Seattle University. The goal of this project is to illustrate an understanding of the basic concepts of Javascript, including variable assignment.
 
 This assignment takes inspiration from the old game known as "Mad Libs". This is a common coding challenge, and there are many ways to solve it in every language. We are not aiming to create the most sophisticated, obscure or tiny implementation. We aim to create a clear, understandable logic that builds on the basic components of Javascript.
 
