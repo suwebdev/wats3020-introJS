@@ -2,6 +2,7 @@
 
 /*
 ---- Start of Variables ----
+
 Create the following variables:
     - Two for funny words
     - Six for adjective
